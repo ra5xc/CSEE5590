@@ -31,7 +31,8 @@ def main(python_student_list,web_application_list): #main function
 
 python_student_list=['Rohit Singh', 'Shuai Zhao', 'Jack Daniels','Chivas Regal','Glen'] #list of student in python class
 web_application_list=['Rohit Singh','Budlight','Tank','Chivas Regal'] #list of students in web application class
-
+print "Student in Python Class ", python_student_list
+print "Student in Web Application Class ",web_application_list
 
 main(python_student_list,web_application_list)#calling the main function
 
