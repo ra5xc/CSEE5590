@@ -1,8 +1,8 @@
 *****
 Here we analyzed the NASA LOG:
 We have used 2 datasets : nasa_dataset1, nasa_dataset2
-The code can be found in main.py
+The code to read the dataset and  mapping can be found in main.py
 We found some interesting results after analyzing the IP address, response time, url…etc
-We also mapped the ip address  and ran a linear regression prediction for predict the request continent.
-The presentation can be found in the git
+We also mapped the ip address  and ran a linear regression prediction for predict the continent from which the request has been originated.The code can be found in Predictions.py.
+The presentation file is NASA Request Log Analysis.pptx whereas Hackathon.mp4.zip is the presentation video.
 ****
