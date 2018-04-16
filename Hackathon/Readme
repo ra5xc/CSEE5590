@@ -1,0 +1,8 @@
+*****
+Here we analyzed the NASA LOG:
+We have used 2 datasets : nasa_dataset1, nasa_dataset2
+The code can be found in main.py
+We found some interesting results after analyzing the IP address, response time, url…etc
+We also mapped the ip address  and ran a linear regression prediction for predict the request continent.
+The presentation can be found in the git
+****
